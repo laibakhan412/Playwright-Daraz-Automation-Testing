@@ -1,10 +1,10 @@
-Daraz.pk Automation with Playwright 🚀🧪
+## Daraz.pk Automation with Playwright 🚀🧪
 This repository contains a robust end-to-end test automation project for the Daraz.pk web application. Developed using the Playwright framework, this project demonstrates key automation principles, including the Page Object Model (POM) design pattern, and fulfills the requirements of a QA assignment.
 
-📚 Assignment Overview
+## 📚 Assignment Overview
 This project addresses a series of specific automation tasks for the https://www.daraz.pk/ application:
 
-✅ Core Assignment Tasks
+## ✅ Core Assignment Tasks
 Project Creation: Successfully initialized and configured a new Playwright project.
 
 Page Object Model (POM) Implementation: Utilized the Page Object Model (POM) design pattern for all application pages (HomePage, SearchResultsPage, ProductDetailsPage). This approach separates UI elements and interactions from test logic, making tests more maintainable and reusable.
@@ -17,7 +17,7 @@ Product Count Validation: Developed a test case to find the count of products af
 
 Product Navigation: Created a test to click on the first product from the search results and successfully navigate to its details page. The test concludes after this action.
 
-📁 Repository Structure
+## 📁 Repository Structure
 The project follows a standard Playwright and Page Object Model structure:
 
 📦 Daraz_Playwright_Automation/
@@ -32,7 +32,7 @@ The project follows a standard Playwright and Page Object Model structure:
 ┣ 📄 package.json                 → Lists project dependencies and defines npm scripts
 ┗ 📄 README.md                    → Project documentation (this file)
 
-🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 Playwright – The leading end-to-end testing framework for web applications.
 
 JavaScript – The primary programming language used for writing test scripts and page objects.
@@ -43,7 +43,7 @@ npm – Node Package Manager, used for installing and managing project dependenc
 
 Page Object Model (POM) – An industry-standard design pattern applied to enhance test structure, reusability, and maintainability.
 
-▶️ How to Run the Tests
+## ▶️ How to Run the Tests
 Follow these simple steps to set up and execute the tests in this project:
 
 1. Clone the Repository
@@ -70,7 +70,7 @@ To run the tests with a visible browser UI for debugging purposes:
 
 npx playwright test --headed
 
-📊 Viewing the Playwright Test Report
+## 📊 Viewing the Playwright Test Report
 After running the tests, a detailed and interactive HTML report will be automatically generated.
 
 After the test run completes, execute the following command:
@@ -79,10 +79,10 @@ npx playwright show-report
 
 This will open a local web server displaying the report in your default web browser, providing a clear overview of test passes/failures, durations, and other valuable insights into the test execution.
 
-🤝 Credits
+## 🤝 Credits
 This repository is a result of my dedicated work on this assignment, focusing on practical end-to-end test automation with Playwright.
 
-📬 Contact
+## 📬 Contact
 I welcome any queries, feedback, or suggestions regarding this project. Feel free to connect!
 
 ## 📧 Email: klaiba412@gmail.com
