@@ -121,6 +121,3 @@ I welcome any queries, feedback, or suggestions regarding this project. Feel fre
 -----
 
 **Happy Testing\!** 🧪✨
-
-```
-```
